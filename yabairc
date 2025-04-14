@@ -49,3 +49,4 @@ yabai -m rule --add app="^Activity Monitor$" manage=on
 yabai -m rule --add app="^Preview$" manage=on
 yabai -m rule --add app="^BetterZip$" manage=on
 yabai -m rule --add app="^.*Netconf Browser.*$" manage=on
+yabai -m rule --add app="^YouTube$" manage=on
